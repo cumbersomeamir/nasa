@@ -17,6 +17,11 @@ export default function Home() {
       name: "Sub-Global Scenarios Extending Global SSP Narratives: Literature Database",
       description: "Literature database tracking 155 papers (2014-2021) extending Shared Socioeconomic Pathways (SSPs) to sub-global scales for climate assessments",
     },
+    {
+      id: "food-twentieth-century-crop-statistics-1900-2017-xlsx",
+      name: "Twentieth Century Crop Statistics (1900-2017)",
+      description: "Historical crop statistics for wheat, maize, and cereals including production (tonnes), yield (tonnes/ha), and area (hectares) across multiple countries",
+    },
   ];
 
   return (
